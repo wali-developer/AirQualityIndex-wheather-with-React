@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(253, 246, 148);
+  padding: 20px 60px;
+  margin-top: 3%;
+}
