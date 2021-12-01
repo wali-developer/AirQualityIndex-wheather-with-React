@@ -32,8 +32,9 @@ const box = {
 const innerBox = {
   display: "flex",
   flexDirection: "row",
-  justifyContent: "space-around",
+  justifyContent: "space-between",
   alignItems: "center",
+  paddingLeft: "50px",
 };
 
 const innerBoxAqi = {
